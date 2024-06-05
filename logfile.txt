@@ -1,0 +1,6 @@
+2024-06-05 00:19:59,050 - INFO - Isso é uma mensagem de informação.
+2024-06-05 00:19:59,050 - WARNING - Isso é uma mensagem de aviso.
+2024-06-05 00:19:59,051 - ERROR - Isso é uma mensagem de erro.
+2024-06-05 16:10:05,930 - INFO - Isso é uma mensagem de informação.
+2024-06-05 16:10:05,930 - WARNING - Isso é uma mensagem de aviso.
+2024-06-05 16:10:05,930 - ERROR - Isso é uma mensagem de erro.
